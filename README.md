@@ -1,4 +1,3 @@
-Travel booking landing page designed in Figma
 # 🌍 TravelEase - UI/UX Design
 
 ## 📖 Overview
