@@ -1,2 +1,1 @@
-# demo1
-This is my first repository
+Travel booking landing page designed in Figma
