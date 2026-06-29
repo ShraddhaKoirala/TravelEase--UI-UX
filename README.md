@@ -21,4 +21,4 @@ TravelEase is a modern travel booking landing page designed in Figma.
 ![Travel Ease](TravelEase.png)
 
 ## 👩‍💻 Designed By
-Shraddha Sharma
+Shraddha Sharma Koirala
